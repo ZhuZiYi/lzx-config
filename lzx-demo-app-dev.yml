@@ -1,3 +1,2 @@
-province:
-  city:
-    name: changsha
+name=sample
+age=99
